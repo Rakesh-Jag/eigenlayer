@@ -1,7 +1,7 @@
 {
-  "name": "<OPERATOR_NAME>",
-  "website": "<YOUR_WEBSITE>",
-  "description": "<DESCRIPTION>",
-  "logo": "https://www.example.com/logo.png",
-  "twitter": "<YOUR_TWITTER>"
+  "name": "Finnoweb",
+  "website": "https://finnowebnews.com/",
+  "description": "This is our website for our news outlet, Cheers",
+  "logo": "https://finnowebnews.com/wp-content/uploads/2023/09/cropped-Logo-without-text.png",
+  "twitter": "https://twitter.com/SouravDeFinno"
 }
